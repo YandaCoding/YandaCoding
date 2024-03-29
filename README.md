@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YandaCoding
 - 👀 I’m interested in ... LEARNING HOW TO CODE AND COMMUNICATING WITH OTHER PROGRAMMERS
-- 🌱 I’m currently learning ... BACHELOR OG INFORMATION SYSTEM AT THE UNIVERSITY OF FREE STATE
+- 🌱 I’m currently learning ... BACHELOR OF COMPUTER INFORMATION SYSTEM AT THE UNIVERSITY OF THE FREE STATE
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 0787148664
 - 😄 Pronouns: ... SHE
