@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @YandaCoding
+- 👋 Hi, I’m Helena Yanda Mazivila
 - 👀 I’m interested in ... LEARNING HOW TO CODE AND COMMUNICATING WITH OTHER PROGRAMMERS
 - 🌱 I’m currently learning ... BACHELOR OF COMPUTER INFORMATION SYSTEM AT THE UNIVERSITY OF THE FREE STATE
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 0787148664
-- 😄 Pronouns: ... SHE
-- ⚡ Fun fact: ... 
+- 😄 Pronouns: ... She/Her
 
 <!---
 YandaCoding/YandaCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
